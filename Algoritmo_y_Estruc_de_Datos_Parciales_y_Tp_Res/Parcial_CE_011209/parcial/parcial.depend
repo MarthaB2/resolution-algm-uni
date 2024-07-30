@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1719857203 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_ce_011209\colaestatica\colae.c
+	"colaE.h"
+
+1719856888 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_ce_011209\colaestatica\colae.h
+	<string.h>
+
+1719856914 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_ce_011209\parcial\funciones.c
+	"funciones.h"
+
+1719855868 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_ce_011209\parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"../colaEstatica/colaE.h"
+
+1719857222 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_ce_011209\parcial\main.c
+	"funciones.h"
+

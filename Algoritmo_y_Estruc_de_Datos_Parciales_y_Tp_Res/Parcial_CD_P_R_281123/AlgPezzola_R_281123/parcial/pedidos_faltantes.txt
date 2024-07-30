@@ -1,0 +1,11 @@
+Pedido 0 con faltantes-	3-      martillo negro:	  3
+-	5-           llave 10':	  8
+-	4-      destornillador:	  4
+-	10-           mecha 10':	  7
+-	8-            mecha 8':	  3
+-	15-            serrucho:	  4
+Pedido 0 con faltantes-	15-            serrucho:	  4
+-	13-              cutter:	  3
+-	14-               lapiz:	  1
+-	10-           mecha 10':	  4
+-	3-      martillo negro:	  4

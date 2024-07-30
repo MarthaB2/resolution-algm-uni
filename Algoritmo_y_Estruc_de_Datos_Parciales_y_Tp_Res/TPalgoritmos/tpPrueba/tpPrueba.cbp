@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tpPrueba" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tpPrueba" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tpPrueba" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../TDA_Arbol/arbol.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TDA_Arbol/arbol.h" />
+		<Unit filename="../TDA_Indice/indice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TDA_Indice/indice.h" />
+		<Unit filename="../TDA_Lista/lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TDA_Lista/lista.h" />
+		<Unit filename="TDA_Lista.h" />
+		<Unit filename="funciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones.h" />
+		<Unit filename="macros.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="socios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="socios.h" />
+		<Unit filename="utilitarias.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utilitarias.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

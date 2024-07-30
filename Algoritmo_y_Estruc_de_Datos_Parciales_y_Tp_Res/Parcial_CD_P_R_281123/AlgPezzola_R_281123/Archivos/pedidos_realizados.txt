@@ -1,0 +1,13 @@
+Pedido 123 procesado
+-     1-martillo azul       :	  4 $ 500.00 $ 2000.00
+-     4-destornillador      :	  5 $ 200.00 $ 1000.00
+-     6-llave 8'            :	  1 $ 450.00 $ 450.00
+-     8-mecha 8'            :	 12 $ 150.00 $ 1800.00
+					TOTAL: 5250.00
+
+Pedido 124 procesado
+-     3-martillo negro      :	  1 $ 500.00 $ 500.00
+-     7-llave 6'            :	  1 $ 450.00 $ 450.00
+-    11-pinza               :	  1 $ 660.00 $ 660.00
+					TOTAL: 1610.00
+

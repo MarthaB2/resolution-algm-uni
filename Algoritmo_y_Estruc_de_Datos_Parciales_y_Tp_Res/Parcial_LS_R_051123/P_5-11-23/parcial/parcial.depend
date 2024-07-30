@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1719789190 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algrenata_p_51123\listas\listas.c
+	"listaS.h"
+
+1719710265 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algrenata_p_51123\listas\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719789664 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algrenata_p_51123\parcial\funciones.c
+	"funciones.h"
+
+1719710305 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algrenata_p_51123\parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"../ListaS/listaS.h"
+	"utilitarias.h"
+
+1719705173 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algrenata_p_51123\parcial\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1719788543 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algrenata_p_51123\parcial\main.c
+	"funciones.h"
+
+1719788478 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algrenata_p_51123\parcial\utilitarias.c
+	"utilitarias.h"
+

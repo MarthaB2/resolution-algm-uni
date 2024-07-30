@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1708532643 source:c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_p_141123\2doparcialc\arbol.c
+	<tipos.h>
+	<stdio.h>
+	<stdlib.h>
+	<arbol.h>
+
+1656992784 c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_p_141123\include\tipos.h
+
+1708496931 c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_p_141123\include\arbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1708534646 source:c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_p_141123\2doparcialc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<utilitarias.h>
+	<varias.h>
+	<arbol.h>
+
+1708496935 c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_p_141123\include\utilitarias.h
+	<stdio.h>
+	<arbol.h>
+	<tipos.h>
+
+1656992784 c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_p_141123\include\varias.h
+
+1708536081 source:c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_p_141123\2doparcialc\utilitarias.c
+	<utilitarias.h>
+	<string.h>
+	<varias.h>
+

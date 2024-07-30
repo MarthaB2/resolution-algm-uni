@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1708556752 source:c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_r_281123\parcial\ferreteria.c
+	"../include/cola_dinamica.h"
+	<ferreteria.h>
+	<utilitarias.h>
+	<string.h>
+	<stdlib.h>
+
+1708555455 c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_r_281123\include\ferreteria.h
+	<stdio.h>
+	"../include/cola_dinamica.h"
+
+1657589328 c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_r_281123\include\utilitarias.h
+	<ferreteria.h>
+	<stdio.h>
+
+1708551076 source:c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_r_281123\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ferreteria.h>
+	<utilitarias.h>
+
+1708556910 source:c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_r_281123\parcial\utilitarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<utilitarias.h>
+	<ferreteria.h>
+
+1708546024 source:c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_r_281123\parcial\cola_dinamica.c
+	"../include/cola_dinamica.h"
+
+1708546009 c:\users\florencia\documents\facultad\plan2023\3640-algoritmos y estructuras de datos\res_parciales\algpezzola_r_281123\include\cola_dinamica.h
+	<stdlib.h>
+	<string.h>
+
+1708546024 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\res_parciales\algpezzola_r_281123\parcial\cola_dinamica.c
+	"../include/cola_dinamica.h"
+
+1708546009 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\res_parciales\algpezzola_r_281123\include\cola_dinamica.h
+	<stdlib.h>
+	<string.h>
+
+1708556752 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\res_parciales\algpezzola_r_281123\parcial\ferreteria.c
+	"../include/cola_dinamica.h"
+	<ferreteria.h>
+	<utilitarias.h>
+	<string.h>
+	<stdlib.h>
+
+1708555455 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\res_parciales\algpezzola_r_281123\include\ferreteria.h
+	<stdio.h>
+	"../include/cola_dinamica.h"
+
+1657589328 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\res_parciales\algpezzola_r_281123\include\utilitarias.h
+	<ferreteria.h>
+	<stdio.h>
+
+1708551076 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\res_parciales\algpezzola_r_281123\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ferreteria.h>
+	<utilitarias.h>
+
+1719177756 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algpezzola_r_281123\parcial\cola_dinamica.c
+	"../include/cola_dinamica.h"
+
+1708546009 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algpezzola_r_281123\include\cola_dinamica.h
+	<stdlib.h>
+	<string.h>
+
+1719184812 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algpezzola_r_281123\parcial\ferreteria.c
+	"../include/cola_dinamica.h"
+	<ferreteria.h>
+	<utilitarias.h>
+	<string.h>
+	<stdlib.h>
+
+1719176912 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algpezzola_r_281123\include\ferreteria.h
+	<stdio.h>
+	"../include/cola_dinamica.h"
+
+1657589328 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algpezzola_r_281123\include\utilitarias.h
+	<ferreteria.h>
+	<stdio.h>
+
+1719178110 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algpezzola_r_281123\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ferreteria.h>
+	<utilitarias.h>
+
+1708556949 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\algpezzola_r_281123\parcial\utilitarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<utilitarias.h>
+	<ferreteria.h>
+

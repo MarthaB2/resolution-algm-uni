@@ -1,0 +1,567 @@
+# depslib dependency file v1.0
+1717536186 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tpprueba\funciones.c
+
+1718059738 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tpprueba\main.c
+	"funciones.h"
+
+1717719628 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+
+1717718988 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarias.h"
+
+1717712888 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tpprueba\socios.c
+	"socios.h"
+
+1718060509 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tda_arbol\arbol.c
+	"arbol.h"
+
+1718058500 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/utilitarias.h"
+
+1718058611 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tda_indice\indice.c
+	"indice.h"
+
+1717981587 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/utilitarias.h"
+
+1717718988 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+
+1717718853 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp\tpprueba\utilitarias.c
+
+1718060510 source:c:\users\josee\downloads\tp_act\tda_arbol\arbol.c
+	"arbol.h"
+
+1718058502 c:\users\josee\downloads\tp_act\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/utilitarias.h"
+
+1717718990 c:\users\josee\downloads\tp_act\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+
+1718241794 source:c:\users\josee\downloads\tp_act\tda_indice\indice.c
+	"indice.h"
+
+1717981588 c:\users\josee\downloads\tp_act\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/utilitarias.h"
+
+1717536188 source:c:\users\josee\downloads\tp_act\tpprueba\funciones.c
+
+1718241883 source:c:\users\josee\downloads\tp_act\tpprueba\main.c
+	"funciones.h"
+
+1717719630 c:\users\josee\downloads\tp_act\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+
+1717718990 c:\users\josee\downloads\tp_act\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarias.h"
+
+1717712890 source:c:\users\josee\downloads\tp_act\tpprueba\socios.c
+	"socios.h"
+
+1717718854 source:c:\users\josee\downloads\tp_act\tpprueba\utilitarias.c
+
+1718845997 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tda_arbol\arbol.c
+	"arbol.h"
+
+1718845997 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/utilitarias.h"
+
+1718835719 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+
+1718845657 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tda_indice\indice.c
+	"indice.h"
+
+1718836001 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/utilitarias.h"
+
+1718835718 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tpprueba\funciones.c
+
+1718845657 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tpprueba\main.c
+	"funciones.h"
+
+1718841720 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+
+1718835719 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarias.h"
+
+1718835718 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tpprueba\socios.c
+	"socios.h"
+
+1718835719 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_12_6\tp_act\tpprueba\utilitarias.c
+
+1718845998 source:c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tda_arbol\arbol.c
+	"arbol.h"
+
+1718845998 c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/utilitarias.h"
+
+1718835720 c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+
+1718845658 source:c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tda_indice\indice.c
+	"indice.h"
+
+1718836002 c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/utilitarias.h"
+
+1718835720 source:c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tpprueba\funciones.c
+
+1718929052 source:c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tpprueba\main.c
+	"funciones.h"
+
+1718841722 c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+
+1718835720 c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarias.h"
+
+1718835720 source:c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tpprueba\socios.c
+	"socios.h"
+
+1718835720 source:c:\users\josee\downloads\tp_ultimo_20_6\tp_act\tpprueba\utilitarias.c
+
+1719078960 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tda_arbol\arbol.c
+	"arbol.h"
+
+1719103761 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/macros.h"
+
+1719105736 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"macros.h"
+
+1718999599 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tda_indice\indice.c
+	"indice.h"
+
+1719103735 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/macros.h"
+
+1719108183 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\funciones.c
+	"funciones.h"
+
+1719108183 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\main.c
+	"funciones.h"
+
+1719107902 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+	"../TDA_Arbol/arbol.h"
+	"macros.h"
+
+1719103672 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"macros.h"
+
+1718835720 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\socios.c
+	"socios.h"
+
+1719107185 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\utilitarias.c
+	"utilitarias.h"
+
+1719108183 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_21_6\tp_ultimo_21_6\tp_act\tpprueba\macros.h
+
+1719078962 source:c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_arbol\arbol.c
+	"arbol.h"
+
+1719103762 c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/macros.h"
+
+1719108184 c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\macros.h
+
+1718999600 source:c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_indice\indice.c
+	"indice.h"
+
+1719103736 c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/macros.h"
+
+1718835720 source:c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\socios.c
+	"socios.h"
+
+1719103674 c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"macros.h"
+
+1719198389 source:c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\utilitarias.c
+	"utilitarias.h"
+
+1719105738 c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"macros.h"
+
+1719198929 source:c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\main.c
+	"funciones.h"
+
+1719198942 c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+	"../TDA_Arbol/arbol.h"
+	"../TDA_Lista/lista.h"
+	"macros.h"
+
+1719198946 source:c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\funciones.c
+	"funciones.h"
+
+1719198263 source:c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_lista\lista.c
+	"lista.h"
+
+1719198255 c:\users\josee\downloads\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_lista\lista.h
+	<stdlib.h>
+	<string.h>
+
+1719078962 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_arbol\arbol.c
+	"arbol.h"
+
+1719103762 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/macros.h"
+
+1719240463 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\macros.h
+
+1718999600 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_indice\indice.c
+	"indice.h"
+
+1719103736 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/macros.h"
+
+1719272509 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_lista\lista.c
+	"lista.h"
+
+1719198255 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tda_lista\lista.h
+	<stdlib.h>
+	<string.h>
+
+1719198946 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\funciones.c
+	"funciones.h"
+
+1719198942 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+	"../TDA_Arbol/arbol.h"
+	"../TDA_Lista/lista.h"
+	"macros.h"
+
+1719103674 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"macros.h"
+
+1719105738 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"macros.h"
+
+1719240388 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\main.c
+	"funciones.h"
+
+1719240362 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\socios.c
+	"socios.h"
+
+1719272575 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tp_ultimo_final\tp_ultimo_22_6\tp_ultimo_21_6\tp_act\tpprueba\utilitarias.c
+	"utilitarias.h"
+
+1719078962 source:c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tda_arbol\arbol.c
+	"arbol.h"
+
+1719103762 c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/macros.h"
+
+1719240463 c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\macros.h
+
+1718999600 source:c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tda_indice\indice.c
+	"indice.h"
+
+1719103736 c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/macros.h"
+
+1719369267 source:c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\funciones.c
+	"funciones.h"
+
+1719198942 c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+	"../TDA_Arbol/arbol.h"
+	"../TDA_Lista/lista.h"
+	"macros.h"
+
+1719103674 c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"macros.h"
+
+1719105738 c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"macros.h"
+
+1719198255 c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tda_lista\lista.h
+	<stdlib.h>
+	<string.h>
+
+1719240388 source:c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\main.c
+	"funciones.h"
+
+1719240362 source:c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\socios.c
+	"socios.h"
+
+1719272575 source:c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tpprueba\utilitarias.c
+	"utilitarias.h"
+
+1719338737 source:c:\users\usuario\documents\martha barra\2024\41744779-marthabarraquelca\tda_lista\lista.c
+	"lista.h"
+
+1719078962 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tda_arbol\arbol.c
+	"arbol.h"
+
+1719103762 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/macros.h"
+
+1719240463 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\macros.h
+
+1718999600 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tda_indice\indice.c
+	"indice.h"
+
+1719103736 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/macros.h"
+
+1719338737 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tda_lista\lista.c
+	"lista.h"
+
+1719198255 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tda_lista\lista.h
+	<stdlib.h>
+	<string.h>
+
+1719369267 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\funciones.c
+	"funciones.h"
+
+1719198942 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+	"../TDA_Arbol/arbol.h"
+	"../TDA_Lista/lista.h"
+	"macros.h"
+
+1719103674 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"macros.h"
+
+1719105738 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"macros.h"
+
+1719240388 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\main.c
+	"funciones.h"
+
+1719240362 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\socios.c
+	"socios.h"
+
+1719272575 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\41744779-marthabarraquelca\tpprueba\utilitarias.c
+	"utilitarias.h"
+
+1719078962 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tda_arbol\arbol.c
+	"arbol.h"
+
+1719103762 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../tpPrueba/macros.h"
+
+1719240463 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\macros.h
+
+1721084399 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tda_indice\indice.c
+	"indice.h"
+
+1719103736 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tda_indice\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDA_Arbol/arbol.h"
+	"../tpPrueba/macros.h"
+
+1721086109 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tda_lista\lista.c
+	"lista.h"
+
+1719198255 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tda_lista\lista.h
+	<stdlib.h>
+	<string.h>
+
+1721085275 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\funciones.c
+	"funciones.h"
+
+1719198942 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"socios.h"
+	"../TDA_Indice/indice.h"
+	"utilitarias.h"
+	"../TDA_Arbol/arbol.h"
+	"../TDA_Lista/lista.h"
+	"macros.h"
+
+1719103674 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"macros.h"
+
+1719105738 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"macros.h"
+
+1721086310 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\main.c
+	"funciones.h"
+
+1719240362 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\socios.c
+	"socios.h"
+
+1721086109 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\tpalgoritmos\tpprueba\utilitarias.c
+	"utilitarias.h"
+

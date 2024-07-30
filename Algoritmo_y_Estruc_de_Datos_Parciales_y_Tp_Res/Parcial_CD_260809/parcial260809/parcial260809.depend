@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1719874530 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_cd_260809\coladinamica\cola.c
+	"cola.h"
+
+1719874555 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_cd_260809\coladinamica\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719877712 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_cd_260809\parcial260809\funciones.c
+	"funciones.h"
+
+1719876550 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_cd_260809\parcial260809\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"../colaDinamica/cola.h"
+
+1719876591 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\cola\parcial_cd_260809\parcial260809\main.c
+	"funciones.h"
+

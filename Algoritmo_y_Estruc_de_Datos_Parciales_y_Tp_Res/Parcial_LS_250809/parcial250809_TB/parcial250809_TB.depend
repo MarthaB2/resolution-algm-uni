@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1719891011 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\parcial_ls_250809\listasimple\listas.c
+	"listaS.h"
+
+1719891011 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\parcial_ls_250809\listasimple\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1719891077 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\parcial_ls_250809\parcial250809_tb\funciones.c
+	"funciones.h"
+
+1719890848 c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\parcial_ls_250809\parcial250809_tb\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"../listaSimple/listaS.h"
+
+1719890748 source:c:\users\usuario\documents\martha barra\2024\cuatri-1_2024\algoritmo_y_estructuras_de_datos\parciales_reso_por_martha\parcial_ls_250809\parcial250809_tb\main.c
+	"funciones.h"
+
